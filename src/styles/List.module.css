@@ -1,0 +1,7 @@
+.list {
+    padding-left: 25px;
+    width: max(320px, min(100%, 1260px));
+    gap: 25px;
+    display: grid;
+    height: fit-content;
+}

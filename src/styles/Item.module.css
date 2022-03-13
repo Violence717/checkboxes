@@ -1,0 +1,25 @@
+.item {
+    display: grid;
+    gap: 15px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 25px;
+}
+
+.row {
+    display: flex;
+    gap: 15px;
+}
+
+.label {
+    min-width: 235px; 
+}
+
+.interface {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
